@@ -1,4 +1,4 @@
-# Feedback-widget
+# Feedback-widget mobile first
 
 Projeto feito em conjunto com a Rocket Seat, utilizando ferramentas como:
 
